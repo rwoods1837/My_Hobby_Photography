@@ -56,3 +56,7 @@ a:hover {
 a:active {
     color: blue;
 }
+
+img {
+    max-width: 100%
+}
